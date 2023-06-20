@@ -11,4 +11,4 @@ Model 1 : CNN with Regularization
 Model 2 : CNN with Residual Network
 Model 3 : CNN with Transfer Learning
 
-```Breast_Cancer_Detection_presentation``` : Presentation   
+```Breast_Cancer_Detection_presentation``` : Project Presentation   
