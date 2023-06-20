@@ -1,4 +1,4 @@
-# Breast-Cancer-detection
+# Breast-Cancer-Detection
 Breast Cancer Detection in Histopathology Images : This project focus on identifying breast cancer (IDC) in breast
 histopathology images using Convolution Neural Network
 
