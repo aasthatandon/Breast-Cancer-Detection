@@ -7,8 +7,8 @@ Dataset is available on Kaggle at the following link : https://www.kaggle.com/da
 
 ### What analysis were performed
 ```Breast_Cancer_Detection.ipynb``` : Code for the three models  :<br>
-Model 1 : CNN with Regularization
-Model 2 : CNN with Residual Network
+Model 1 : CNN with Regularization <br>
+Model 2 : CNN with Residual Network <br>
 Model 3 : CNN with Transfer Learning
 
 ```Breast_Cancer_Detection_presentation``` : Project Presentation   
