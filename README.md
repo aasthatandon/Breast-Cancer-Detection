@@ -11,7 +11,7 @@ Dataset is available on Kaggle at the following link : https://www.kaggle.com/da
 
 ### What analysis were performed : 
 ```Breast_Cancer_Detection.ipynb``` : Code four models  :<br>
-Baseline(Naive) Mode : Randomly assigned class label based on class probability distribution in training data
+Baseline(Naive) Mode : Randomly assigned class label based on class probability distribution in training data<br>
 Model 1 : CNN with Regularization <br>
 Model 2 : CNN with Residual Network <br>
 Model 3 : CNN with Transfer Learning
