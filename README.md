@@ -10,7 +10,8 @@ This project employs Convolutional Neural Networks (CNNs) to detect Invasive Duc
 Dataset is available on Kaggle at the following link : https://www.kaggle.com/datasets/paultimothymooney/breast-histopathologyimages
 
 ### What analysis were performed : 
-```Breast_Cancer_Detection.ipynb``` : Code for the three models  :<br>
+```Breast_Cancer_Detection.ipynb``` : Code four models  :<br>
+Baseline(Naive) Mode : Randomly assigned class label based on class probability distribution in training data
 Model 1 : CNN with Regularization <br>
 Model 2 : CNN with Residual Network <br>
 Model 3 : CNN with Transfer Learning
